@@ -1,0 +1,13 @@
+C:\Users\ekizn\source\repos\HappyMore\Core\bin\Release\netstandard2.1\Core.deps.json
+C:\Users\ekizn\source\repos\HappyMore\Core\bin\Release\netstandard2.1\Core.dll
+C:\Users\ekizn\source\repos\HappyMore\Core\bin\Release\netstandard2.1\Core.pdb
+C:\Users\ekizn\source\repos\HappyMore\Core\bin\Release\netstandard2.1\Entities.dll
+C:\Users\ekizn\source\repos\HappyMore\Core\bin\Release\netstandard2.1\Entities.pdb
+C:\Users\ekizn\source\repos\HappyMore\Core\obj\Release\netstandard2.1\Core.csproj.AssemblyReference.cache
+C:\Users\ekizn\source\repos\HappyMore\Core\obj\Release\netstandard2.1\Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ekizn\source\repos\HappyMore\Core\obj\Release\netstandard2.1\Core.AssemblyInfoInputs.cache
+C:\Users\ekizn\source\repos\HappyMore\Core\obj\Release\netstandard2.1\Core.AssemblyInfo.cs
+C:\Users\ekizn\source\repos\HappyMore\Core\obj\Release\netstandard2.1\Core.csproj.CoreCompileInputs.cache
+C:\Users\ekizn\source\repos\HappyMore\Core\obj\Release\netstandard2.1\Core.csproj.CopyComplete
+C:\Users\ekizn\source\repos\HappyMore\Core\obj\Release\netstandard2.1\Core.dll
+C:\Users\ekizn\source\repos\HappyMore\Core\obj\Release\netstandard2.1\Core.pdb

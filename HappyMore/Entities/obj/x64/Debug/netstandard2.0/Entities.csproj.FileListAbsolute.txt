@@ -1,0 +1,10 @@
+C:\Users\ekizn\source\repos\HappyMore\Entities\bin\x64\Debug\netstandard2.0\Entities.deps.json
+C:\Users\ekizn\source\repos\HappyMore\Entities\bin\x64\Debug\netstandard2.0\Entities.dll
+C:\Users\ekizn\source\repos\HappyMore\Entities\bin\x64\Debug\netstandard2.0\Entities.pdb
+C:\Users\ekizn\source\repos\HappyMore\Entities\obj\x64\Debug\netstandard2.0\Entities.csproj.AssemblyReference.cache
+C:\Users\ekizn\source\repos\HappyMore\Entities\obj\x64\Debug\netstandard2.0\Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ekizn\source\repos\HappyMore\Entities\obj\x64\Debug\netstandard2.0\Entities.AssemblyInfoInputs.cache
+C:\Users\ekizn\source\repos\HappyMore\Entities\obj\x64\Debug\netstandard2.0\Entities.AssemblyInfo.cs
+C:\Users\ekizn\source\repos\HappyMore\Entities\obj\x64\Debug\netstandard2.0\Entities.csproj.CoreCompileInputs.cache
+C:\Users\ekizn\source\repos\HappyMore\Entities\obj\x64\Debug\netstandard2.0\Entities.dll
+C:\Users\ekizn\source\repos\HappyMore\Entities\obj\x64\Debug\netstandard2.0\Entities.pdb

@@ -1,0 +1,15 @@
+C:\Users\ekizn\source\repos\HappyMore\DataAccess\obj\Release\netstandard2.0\DataAccess.csproj.AssemblyReference.cache
+C:\Users\ekizn\source\repos\HappyMore\DataAccess\obj\Release\netstandard2.0\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ekizn\source\repos\HappyMore\DataAccess\obj\Release\netstandard2.0\DataAccess.AssemblyInfoInputs.cache
+C:\Users\ekizn\source\repos\HappyMore\DataAccess\obj\Release\netstandard2.0\DataAccess.AssemblyInfo.cs
+C:\Users\ekizn\source\repos\HappyMore\DataAccess\obj\Release\netstandard2.0\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\ekizn\source\repos\HappyMore\DataAccess\bin\Release\netstandard2.0\DataAccess.deps.json
+C:\Users\ekizn\source\repos\HappyMore\DataAccess\bin\Release\netstandard2.0\DataAccess.dll
+C:\Users\ekizn\source\repos\HappyMore\DataAccess\bin\Release\netstandard2.0\DataAccess.pdb
+C:\Users\ekizn\source\repos\HappyMore\DataAccess\bin\Release\netstandard2.0\Core.dll
+C:\Users\ekizn\source\repos\HappyMore\DataAccess\bin\Release\netstandard2.0\Entities.dll
+C:\Users\ekizn\source\repos\HappyMore\DataAccess\bin\Release\netstandard2.0\Core.pdb
+C:\Users\ekizn\source\repos\HappyMore\DataAccess\bin\Release\netstandard2.0\Entities.pdb
+C:\Users\ekizn\source\repos\HappyMore\DataAccess\obj\Release\netstandard2.0\DataAccess.csproj.CopyComplete
+C:\Users\ekizn\source\repos\HappyMore\DataAccess\obj\Release\netstandard2.0\DataAccess.dll
+C:\Users\ekizn\source\repos\HappyMore\DataAccess\obj\Release\netstandard2.0\DataAccess.pdb

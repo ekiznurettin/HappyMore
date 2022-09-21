@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "NFeCoDfJMKEt5Igl1W8Z9ZWSotQ3Z82AnLhfWpncuV8X8TFWE48yP68NX7D4+7UXZ03qQwtL4Dvb+MzATNm98A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ekizn\\source\\repos\\HappyMore\\Entities\\Entities.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ekizn\\.nuget\\packages\\microsoft.aspnetcore.http.features\\5.0.16\\microsoft.aspnetcore.http.features.5.0.16.nupkg.sha512",
+    "C:\\Users\\ekizn\\.nuget\\packages\\microsoft.extensions.primitives\\5.0.1\\microsoft.extensions.primitives.5.0.1.nupkg.sha512",
+    "C:\\Users\\ekizn\\.nuget\\packages\\system.componentmodel.annotations\\5.0.0\\system.componentmodel.annotations.5.0.0.nupkg.sha512",
+    "C:\\Users\\ekizn\\.nuget\\packages\\system.io.pipelines\\5.0.2\\system.io.pipelines.5.0.2.nupkg.sha512",
+    "C:\\Users\\ekizn\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\5.0.0\\system.runtime.compilerservices.unsafe.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
